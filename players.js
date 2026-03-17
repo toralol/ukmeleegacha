@@ -1398,5 +1398,2728 @@ players = [
    "Points": 1266,
    "Country": "",
    "Characters": ""
+ },
+ {
+   "Rank": 201,
+   "Player": "Calcifer",
+   "Points": 1266,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 202,
+   "Player": "Ste",
+   "Points": 1263,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 203,
+   "Player": "c:leo",
+   "Points": 1263,
+   "Country": "Scotland",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 204,
+   "Player": "parkour pro (Lily)",
+   "Points": 1263,
+   "Country": "Scotland",
+   "Characters": "Jigglypuff - Yoshi"
+ },
+ {
+   "Rank": 205,
+   "Player": "Jammy",
+   "Points": 1263,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 206,
+   "Player": "throni",
+   "Points": 1262,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 207,
+   "Player": "Jolteon",
+   "Points": 1261,
+   "Country": "England(London)",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 208,
+   "Player": "Callie",
+   "Points": 1260,
+   "Country": "England(South West)",
+   "Characters": "Captain Falcon"
+ },
+ {
+   "Rank": 209,
+   "Player": "2K12",
+   "Points": 1257,
+   "Country": "England(London)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 210,
+   "Player": "zzzetler",
+   "Points": 1257,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 211,
+   "Player": "Moby",
+   "Points": 1255,
+   "Country": "England(London)",
+   "Characters": "Jigglypuff - Falco - Fox - Marth"
+ },
+ {
+   "Rank": 212,
+   "Player": "Julia",
+   "Points": 1253,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 213,
+   "Player": "Pegagingka",
+   "Points": 1253,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 214,
+   "Player": "MrCrumb",
+   "Points": 1251,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 215,
+   "Player": "slush",
+   "Points": 1250,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 216,
+   "Player": "heart",
+   "Points": 1244,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 217,
+   "Player": "Stride",
+   "Points": 1244,
+   "Country": "England(North East)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 218,
+   "Player": "Tomygun75",
+   "Points": 1244,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 219,
+   "Player": "DJPJ",
+   "Points": 1242,
+   "Country": "England(Midlands)",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 220,
+   "Player": "Roo",
+   "Points": 1241,
+   "Country": "Ireland",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 221,
+   "Player": "Jinx",
+   "Points": 1237,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 222,
+   "Player": "WhatsApp | Fingy",
+   "Points": 1237,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 223,
+   "Player": "let's drink the | foxlover",
+   "Points": 1235,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 224,
+   "Player": "Lee",
+   "Points": 1234,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 225,
+   "Player": "Pafos",
+   "Points": 1232,
+   "Country": "England(London)",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 226,
+   "Player": "Zhulong",
+   "Points": 1232,
+   "Country": "England(London)",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 227,
+   "Player": "Zack Ross",
+   "Points": 1231,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 228,
+   "Player": "shOok!",
+   "Points": 1223,
+   "Country": "England(North East)",
+   "Characters": "Sheik - Donkey Kong"
+ },
+ {
+   "Rank": 229,
+   "Player": "Wynn (Peribat)",
+   "Points": 1222,
+   "Country": "United Kingdom",
+   "Characters": "Fox - Peach"
+ },
+ {
+   "Rank": 230,
+   "Player": "Scarf",
+   "Points": 1221,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 231,
+   "Player": "My Dad",
+   "Points": 1219,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 232,
+   "Player": "Klaus",
+   "Points": 1218,
+   "Country": "United States",
+   "Characters": ""
+ },
+ {
+   "Rank": 233,
+   "Player": "CrystalBeth",
+   "Points": 1218,
+   "Country": "England",
+   "Characters": "Ice Climbers"
+ },
+ {
+   "Rank": 234,
+   "Player": "Sweat",
+   "Points": 1216,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 235,
+   "Player": "stinky",
+   "Points": 1211,
+   "Country": "England(Yorkshire and the Humber)",
+   "Characters": "Captain Falcon"
+ },
+ {
+   "Rank": 236,
+   "Player": "LFBeans",
+   "Points": 1208,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 237,
+   "Player": "Hero",
+   "Points": 1208,
+   "Country": "England(South East)",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 238,
+   "Player": "Pyro",
+   "Points": 1203,
+   "Country": "England(Midlands)",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 239,
+   "Player": "Josh97",
+   "Points": 1197,
+   "Country": "Wales",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 240,
+   "Player": "KO TR | SkillZ",
+   "Points": 1196,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 241,
+   "Player": "Koolan",
+   "Points": 1196,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 242,
+   "Player": "Crenando",
+   "Points": 1195,
+   "Country": "Scotland",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 243,
+   "Player": "Dehkx",
+   "Points": 1195,
+   "Country": "England",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 244,
+   "Player": "Crub",
+   "Points": 1194,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 245,
+   "Player": "LoopGravity",
+   "Points": 1194,
+   "Country": "England(South East)",
+   "Characters": "Peach - Sheik"
+ },
+ {
+   "Rank": 246,
+   "Player": "xychojack",
+   "Points": 1194,
+   "Country": "England(South West)",
+   "Characters": "Yoshi"
+ },
+ {
+   "Rank": 247,
+   "Player": "SouR",
+   "Points": 1192,
+   "Country": "Wales",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 248,
+   "Player": "Rafferty",
+   "Points": 1191,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 249,
+   "Player": "PL | benjibob",
+   "Points": 1191,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 250,
+   "Player": "soursplash",
+   "Points": 1189,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 251,
+   "Player": "MonTy",
+   "Points": 1189,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 252,
+   "Player": "Fisma",
+   "Points": 1186,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 253,
+   "Player": "Just James (Implix)",
+   "Points": 1184,
+   "Country": "England(South East)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 254,
+   "Player": "Pass Craft",
+   "Points": 1182,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 255,
+   "Player": "Basil_Snake",
+   "Points": 1182,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 256,
+   "Player": "iBBW (scooty)",
+   "Points": 1177,
+   "Country": "England(London)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 257,
+   "Player": "AlexHD",
+   "Points": 1177,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 258,
+   "Player": "febdeb",
+   "Points": 1176,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 259,
+   "Player": "Dusk",
+   "Points": 1176,
+   "Country": "Scotland",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 260,
+   "Player": "koi | Cinna",
+   "Points": 1176,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 261,
+   "Player": "Toilet Cleaner (Sylveon)",
+   "Points": 1174,
+   "Country": "England(Midlands)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 262,
+   "Player": "Shais Young",
+   "Points": 1174,
+   "Country": "England(Midlands)",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 263,
+   "Player": "Astraya",
+   "Points": 1174,
+   "Country": "England(Midlands)",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 264,
+   "Player": "Hexd",
+   "Points": 1173,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 265,
+   "Player": "Ziviii",
+   "Points": 1172,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 266,
+   "Player": "Buckly",
+   "Points": 1170,
+   "Country": "England(South West)",
+   "Characters": "Peach - Sheik"
+ },
+ {
+   "Rank": 267,
+   "Player": "ronkle dunkle",
+   "Points": 1168,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 268,
+   "Player": "Da Knee",
+   "Points": 1168,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 269,
+   "Player": "Jsef",
+   "Points": 1167,
+   "Country": "England(Midlands)",
+   "Characters": "Falco - Fox"
+ },
+ {
+   "Rank": 270,
+   "Player": "oasis",
+   "Points": 1166,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 271,
+   "Player": "Big Yellow",
+   "Points": 1166,
+   "Country": "Ireland",
+   "Characters": ""
+ },
+ {
+   "Rank": 272,
+   "Player": "Ruu",
+   "Points": 1166,
+   "Country": "Wales",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 273,
+   "Player": "Gorf",
+   "Points": 1164,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 274,
+   "Player": "sgg",
+   "Points": 1164,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 275,
+   "Player": "vlad",
+   "Points": 1163,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 276,
+   "Player": "Schmoo",
+   "Points": 1159,
+   "Country": "England",
+   "Characters": "Dr. Mario - Marth"
+ },
+ {
+   "Rank": 277,
+   "Player": "don_chan",
+   "Points": 1158,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 278,
+   "Player": "WSLeo",
+   "Points": 1154,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 279,
+   "Player": "Lostgamer | Blinkz",
+   "Points": 1153,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 280,
+   "Player": "SleepyFlare",
+   "Points": 1151,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 281,
+   "Player": "TG2 | TheGreg",
+   "Points": 1150,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 282,
+   "Player": "belle (Kid+)",
+   "Points": 1146,
+   "Country": "England(South West)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 283,
+   "Player": "JohnTheBaptist",
+   "Points": 1146,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 284,
+   "Player": "Bhoj",
+   "Points": 1146,
+   "Country": "England(London)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 285,
+   "Player": "Anna",
+   "Points": 1145,
+   "Country": "England(North West)",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 286,
+   "Player": "Order66",
+   "Points": 1143,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 287,
+   "Player": "Dzuh",
+   "Points": 1143,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 288,
+   "Player": "Teeter's | VII",
+   "Points": 1142,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 289,
+   "Player": "Yellow (T B)",
+   "Points": 1142,
+   "Country": "",
+   "Characters": "Pikachu"
+ },
+ {
+   "Rank": 290,
+   "Player": "Bloop!",
+   "Points": 1141,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 291,
+   "Player": "adil",
+   "Points": 1140,
+   "Country": "England(North East)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 292,
+   "Player": "Deku_Don",
+   "Points": 1139,
+   "Country": "England(Midlands)",
+   "Characters": "Ganondorf"
+ },
+ {
+   "Rank": 293,
+   "Player": "SKITZ",
+   "Points": 1138,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 294,
+   "Player": "SnareRush",
+   "Points": 1136,
+   "Country": "England(South East)",
+   "Characters": "Captain Falcon"
+ },
+ {
+   "Rank": 295,
+   "Player": "berry",
+   "Points": 1131,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 296,
+   "Player": "c@tsign",
+   "Points": 1127,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 297,
+   "Player": "LEE",
+   "Points": 1119,
+   "Country": "France",
+   "Characters": ""
+ },
+ {
+   "Rank": 298,
+   "Player": "BAZZ",
+   "Points": 1118,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 299,
+   "Player": "Malcolm Exchequer",
+   "Points": 1117,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 300,
+   "Player": "T'Challa MidJuan",
+   "Points": 1117,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 301,
+   "Player": "Twiddles (UrbanTurban911)",
+   "Points": 1116,
+   "Country": "England(North East)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 302,
+   "Player": "Nebilex | Greasy",
+   "Points": 1112,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 303,
+   "Player": "Grimm_-",
+   "Points": 1110,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 304,
+   "Player": "ToadAwsom",
+   "Points": 1108,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 305,
+   "Player": "Atlos",
+   "Points": 1108,
+   "Country": "England(Midlands)",
+   "Characters": "Ice Climbers - Sheik"
+ },
+ {
+   "Rank": 306,
+   "Player": "Ryfy",
+   "Points": 1108,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 307,
+   "Player": "tea (Midlands)",
+   "Points": 1103,
+   "Country": "England(Midlands)",
+   "Characters": ""
+ },
+ {
+   "Rank": 308,
+   "Player": "Smash Hannover | Kiren",
+   "Points": 1094,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 309,
+   "Player": "2Proto",
+   "Points": 1092,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 310,
+   "Player": "Schrödinger's Cat",
+   "Points": 1090,
+   "Country": "England(Midlands)",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 311,
+   "Player": "Wilde",
+   "Points": 1089,
+   "Country": "Wales",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 312,
+   "Player": "Sassypriest",
+   "Points": 1085,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 313,
+   "Player": "HB | yanbo",
+   "Points": 1083,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 314,
+   "Player": "KevinLar",
+   "Points": 1082,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 315,
+   "Player": "Harvey",
+   "Points": 1081,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 316,
+   "Player": "Waza_Bie",
+   "Points": 1081,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 317,
+   "Player": "skrull",
+   "Points": 1081,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 318,
+   "Player": "Icemaz",
+   "Points": 1079,
+   "Country": "England(North East)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 319,
+   "Player": "emma 666BC",
+   "Points": 1078,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 320,
+   "Player": "RazorLily",
+   "Points": 1077,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 321,
+   "Player": "Nadie | Risa",
+   "Points": 1077,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 322,
+   "Player": "o o z e",
+   "Points": 1077,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 323,
+   "Player": "Monarch",
+   "Points": 1077,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 324,
+   "Player": "BeanFeast",
+   "Points": 1074,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 325,
+   "Player": "dave",
+   "Points": 1074,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 326,
+   "Player": "Hyper | Woost",
+   "Points": 1072,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 327,
+   "Player": "Matt",
+   "Points": 1070,
+   "Country": "England(Midlands)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 328,
+   "Player": "Ribbit",
+   "Points": 1070,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 329,
+   "Player": "Zoph",
+   "Points": 1065,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 330,
+   "Player": "I get Around",
+   "Points": 1064,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 331,
+   "Player": "GeoBreaker",
+   "Points": 1063,
+   "Country": "England(Midlands)",
+   "Characters": "Captain Falcon - Falco - Fox"
+ },
+ {
+   "Rank": 332,
+   "Player": "Turkndorf",
+   "Points": 1058,
+   "Country": "Turkey",
+   "Characters": ""
+ },
+ {
+   "Rank": 333,
+   "Player": "TheGreg",
+   "Points": 1056,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 334,
+   "Player": "Mole",
+   "Points": 1054,
+   "Country": "England(Midlands)",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 335,
+   "Player": "wtch",
+   "Points": 1053,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 336,
+   "Player": "Jules",
+   "Points": 1050,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 337,
+   "Player": "DocDa",
+   "Points": 1049,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 338,
+   "Player": "cranyon",
+   "Points": 1047,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 339,
+   "Player": "PhatRolls",
+   "Points": 1047,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 340,
+   "Player": "Big Biff",
+   "Points": 1047,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 341,
+   "Player": "Faith",
+   "Points": 1047,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 342,
+   "Player": "QwertyFinger",
+   "Points": 1047,
+   "Country": "England(South East)",
+   "Characters": "Samus"
+ },
+ {
+   "Rank": 343,
+   "Player": "Zac64Cool",
+   "Points": 1043,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 344,
+   "Player": "John 0skoH",
+   "Points": 1040,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 345,
+   "Player": "BAEN",
+   "Points": 1039,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 346,
+   "Player": "dishoom",
+   "Points": 1037,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 347,
+   "Player": "JBriz",
+   "Points": 1037,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 348,
+   "Player": "GLOCK | Mercurian",
+   "Points": 1031,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 349,
+   "Player": "Doja",
+   "Points": 1030,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 350,
+   "Player": "Dom Dunc",
+   "Points": 1026,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 351,
+   "Player": "Harthur",
+   "Points": 1022,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 352,
+   "Player": "wretch",
+   "Points": 1021,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 353,
+   "Player": "Ikana",
+   "Points": 1018,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 354,
+   "Player": "banjo",
+   "Points": 1016,
+   "Country": "Scotland",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 355,
+   "Player": "Iblis",
+   "Points": 1013,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 356,
+   "Player": "Cali G (Blip)",
+   "Points": 1011,
+   "Country": "England(Midlands)",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 357,
+   "Player": "Cream",
+   "Points": 1007,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 358,
+   "Player": "Rob (Ireland, not Robs)",
+   "Points": 1006,
+   "Country": "Ireland",
+   "Characters": ""
+ },
+ {
+   "Rank": 359,
+   "Player": "HoH | dang0",
+   "Points": 1006,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 360,
+   "Player": "Rose",
+   "Points": 1005,
+   "Country": "Australia",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 361,
+   "Player": "Medli",
+   "Points": 1005,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 362,
+   "Player": "Hovis Soft White Medium",
+   "Points": 1000,
+   "Country": "England(Midlands)",
+   "Characters": "Sheik"
+ },
+ {
+   "Rank": 363,
+   "Player": "1T0KE",
+   "Points": 999,
+   "Country": "England",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 364,
+   "Player": "BitMuffin",
+   "Points": 996,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 365,
+   "Player": "scag",
+   "Points": 995,
+   "Country": "England(North West)",
+   "Characters": "Jigglypuff"
+ },
+ {
+   "Rank": 366,
+   "Player": "Bez",
+   "Points": 994,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 367,
+   "Player": "SuperDebbie",
+   "Points": 992,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 368,
+   "Player": "Jordan King",
+   "Points": 990,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 369,
+   "Player": "TMC | Marth Yuri <3",
+   "Points": 988,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 370,
+   "Player": "VKC",
+   "Points": 983,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 371,
+   "Player": "Blue",
+   "Points": 982,
+   "Country": "England(London)",
+   "Characters": "Sheik - Falco"
+ },
+ {
+   "Rank": 372,
+   "Player": "bazir",
+   "Points": 980,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 373,
+   "Player": "ilikefishalot",
+   "Points": 979,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 374,
+   "Player": "slom",
+   "Points": 977,
+   "Country": "England(London)",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 375,
+   "Player": "JustAndy",
+   "Points": 971,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 376,
+   "Player": "TS | Silly Puppy",
+   "Points": 969,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 377,
+   "Player": "Snake",
+   "Points": 969,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 378,
+   "Player": "Beni",
+   "Points": 968,
+   "Country": "England(Midlands)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 379,
+   "Player": "RAV3R",
+   "Points": 966,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 380,
+   "Player": "kina",
+   "Points": 966,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 381,
+   "Player": "Howsov",
+   "Points": 966,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 382,
+   "Player": "Otolicious!",
+   "Points": 959,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 383,
+   "Player": "gorb",
+   "Points": 959,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 384,
+   "Player": "The E-Gaff | charb",
+   "Points": 958,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 385,
+   "Player": "breadman",
+   "Points": 957,
+   "Country": "England(London)",
+   "Characters": ""
+ },
+ {
+   "Rank": 386,
+   "Player": "GAINZ | MGEMaks",
+   "Points": 954,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 387,
+   "Player": "PEEDgang | Snag na Suibhe",
+   "Points": 954,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 388,
+   "Player": "Pheebl",
+   "Points": 953,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 389,
+   "Player": "SuperSamCraft",
+   "Points": 951,
+   "Country": "Scotland",
+   "Characters": "Jigglypuff"
+ },
+ {
+   "Rank": 390,
+   "Player": "Liam0",
+   "Points": 951,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 391,
+   "Player": "MC | Smally",
+   "Points": 951,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 392,
+   "Player": "Hyhy",
+   "Points": 950,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 393,
+   "Player": "Snag na Suibhe",
+   "Points": 948,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 394,
+   "Player": "Taro",
+   "Points": 945,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 395,
+   "Player": "palindrome",
+   "Points": 942,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 396,
+   "Player": "Blekhy (Ruby)",
+   "Points": 937,
+   "Country": "Ireland",
+   "Characters": ""
+ },
+ {
+   "Rank": 397,
+   "Player": "OmnistonedObi",
+   "Points": 937,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 398,
+   "Player": "Pascal",
+   "Points": 929,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 399,
+   "Player": "Blitz",
+   "Points": 928,
+   "Country": "Germany",
+   "Characters": ""
+ },
+ {
+   "Rank": 400,
+   "Player": "BBBadger",
+   "Points": 926,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 401,
+   "Player": "FructoseComa",
+   "Points": 919,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 402,
+   "Player": "Gekko | MIPS",
+   "Points": 918,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 403,
+   "Player": "phone",
+   "Points": 916,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 404,
+   "Player": "Bliz",
+   "Points": 915,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 405,
+   "Player": "Pik",
+   "Points": 912,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 406,
+   "Player": "void* | OH!Shiddin",
+   "Points": 911,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 407,
+   "Player": "Canute",
+   "Points": 911,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 408,
+   "Player": "dangermouse",
+   "Points": 908,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 409,
+   "Player": "TakaNe",
+   "Points": 907,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 410,
+   "Player": "Baa | Celi",
+   "Points": 907,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 411,
+   "Player": "Mikko",
+   "Points": 901,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 412,
+   "Player": "FREE PALESTINE | Scoot",
+   "Points": 901,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 413,
+   "Player": "Tom7",
+   "Points": 900,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 414,
+   "Player": "Soup",
+   "Points": 900,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 415,
+   "Player": "BS | Mayhem | Blaze",
+   "Points": 899,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 416,
+   "Player": "legend",
+   "Points": 896,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 417,
+   "Player": "Levi",
+   "Points": 894,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 418,
+   "Player": "Mufasa",
+   "Points": 894,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 419,
+   "Player": "Moester",
+   "Points": 893,
+   "Country": "England(London)",
+   "Characters": "Luigi"
+ },
+ {
+   "Rank": 420,
+   "Player": "Eviistix",
+   "Points": 892,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 421,
+   "Player": "FREE PALESTINE | Scott!! :D",
+   "Points": 889,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 422,
+   "Player": "Doran",
+   "Points": 886,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 423,
+   "Player": "MossyEvie",
+   "Points": 884,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 424,
+   "Player": "Brojack",
+   "Points": 880,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 425,
+   "Player": "BOX OFFICE | Müshy",
+   "Points": 875,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 426,
+   "Player": "Sgt Salty",
+   "Points": 874,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 427,
+   "Player": "Flan",
+   "Points": 872,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 428,
+   "Player": "Phantom_",
+   "Points": 870,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 429,
+   "Player": "charli",
+   "Points": 870,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 430,
+   "Player": "a2Bs",
+   "Points": 868,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 431,
+   "Player": "Tom tier",
+   "Points": 867,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 432,
+   "Player": "clownwoman",
+   "Points": 864,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 433,
+   "Player": "007 | | 0-2er0GoodWins7SDs",
+   "Points": 864,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 434,
+   "Player": "layo",
+   "Points": 861,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 435,
+   "Player": "Blahaj Blast",
+   "Points": 861,
+   "Country": "England(South West)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 436,
+   "Player": "effy77",
+   "Points": 856,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 437,
+   "Player": "Tac Rollie",
+   "Points": 855,
+   "Country": "England(North East)",
+   "Characters": ""
+ },
+ {
+   "Rank": 438,
+   "Player": "Overrated",
+   "Points": 854,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 439,
+   "Player": "ChiefsAffinity",
+   "Points": 854,
+   "Country": "Scotland",
+   "Characters": ""
+ },
+ {
+   "Rank": 440,
+   "Player": "Vix",
+   "Points": 852,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 441,
+   "Player": "Jimmypq",
+   "Points": 850,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 442,
+   "Player": "Big Wizard",
+   "Points": 848,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 443,
+   "Player": "YORK | Wicked Skengman",
+   "Points": 847,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 444,
+   "Player": "Ben64cool",
+   "Points": 846,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 445,
+   "Player": "Disneyland, Shanghai",
+   "Points": 846,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 446,
+   "Player": "higl",
+   "Points": 845,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 447,
+   "Player": "animia",
+   "Points": 845,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 448,
+   "Player": "NEO",
+   "Points": 844,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 449,
+   "Player": "nomu",
+   "Points": 840,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 450,
+   "Player": "Omega | ReallyBigDuckHuntFan",
+   "Points": 836,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 451,
+   "Player": "Logan",
+   "Points": 836,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 452,
+   "Player": "Mr.Business",
+   "Points": 833,
+   "Country": "England(South West)",
+   "Characters": ""
+ },
+ {
+   "Rank": 453,
+   "Player": "lol",
+   "Points": 829,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 454,
+   "Player": "Atticus",
+   "Points": 828,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 455,
+   "Player": "void* | money operator",
+   "Points": 828,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 456,
+   "Player": "sonicv6",
+   "Points": 826,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 457,
+   "Player": "slapnuts",
+   "Points": 825,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 458,
+   "Player": "Sass",
+   "Points": 825,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 459,
+   "Player": "Púca",
+   "Points": 825,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 460,
+   "Player": "Chelly",
+   "Points": 824,
+   "Country": "Wales",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 461,
+   "Player": "jai_",
+   "Points": 822,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 462,
+   "Player": "Cel_Shade",
+   "Points": 819,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 463,
+   "Player": "Dang",
+   "Points": 816,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 464,
+   "Player": "potato chip",
+   "Points": 815,
+   "Country": "England(London)",
+   "Characters": ""
+ },
+ {
+   "Rank": 465,
+   "Player": "skyeves",
+   "Points": 815,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 466,
+   "Player": "ElleTY4",
+   "Points": 811,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 467,
+   "Player": "jeems",
+   "Points": 810,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 468,
+   "Player": "Knowhere Bee",
+   "Points": 807,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 469,
+   "Player": "Dragi",
+   "Points": 803,
+   "Country": "England(North West)",
+   "Characters": "Link"
+ },
+ {
+   "Rank": 470,
+   "Player": "classic (Scotland)",
+   "Points": 803,
+   "Country": "Scotland",
+   "Characters": ""
+ },
+ {
+   "Rank": 471,
+   "Player": "Nathan",
+   "Points": 802,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 472,
+   "Player": "Yon",
+   "Points": 796,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 473,
+   "Player": "Star",
+   "Points": 794,
+   "Country": "England(South East)",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 474,
+   "Player": "Hekireki",
+   "Points": 792,
+   "Country": "England(London)",
+   "Characters": ""
+ },
+ {
+   "Rank": 475,
+   "Player": "Jim",
+   "Points": 791,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 476,
+   "Player": "Goose",
+   "Points": 791,
+   "Country": "England(London)",
+   "Characters": "Falco - Fox - Captain Falcon"
+ },
+ {
+   "Rank": 477,
+   "Player": "Tagmon",
+   "Points": 791,
+   "Country": "England(Midlands)",
+   "Characters": "Link"
+ },
+ {
+   "Rank": 478,
+   "Player": "Littleliver",
+   "Points": 790,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 479,
+   "Player": "HarryCoupe",
+   "Points": 786,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 480,
+   "Player": "Eon",
+   "Points": 786,
+   "Country": "Scotland",
+   "Characters": ""
+ },
+ {
+   "Rank": 481,
+   "Player": "KidRyku",
+   "Points": 785,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 482,
+   "Player": "Zwan",
+   "Points": 785,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 483,
+   "Player": "crude oil (Fusco)",
+   "Points": 782,
+   "Country": "Scotland",
+   "Characters": ""
+ },
+ {
+   "Rank": 484,
+   "Player": "Yeebies",
+   "Points": 782,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 485,
+   "Player": "Miss Robin",
+   "Points": 780,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 486,
+   "Player": "Team Weeden | lövivinden",
+   "Points": 780,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 487,
+   "Player": "dyl",
+   "Points": 778,
+   "Country": "",
+   "Characters": "Pichu"
+ },
+ {
+   "Rank": 488,
+   "Player": "404molar",
+   "Points": 776,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 489,
+   "Player": "CØŃҒŮŽƏĐ",
+   "Points": 775,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 490,
+   "Player": "TRANSRIGHTS | ninenaos",
+   "Points": 774,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 491,
+   "Player": "Cappy",
+   "Points": 774,
+   "Country": "England(Midlands)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 492,
+   "Player": "Leaf",
+   "Points": 769,
+   "Country": "England(London)",
+   "Characters": "Falco - Fox"
+ },
+ {
+   "Rank": 493,
+   "Player": "Roooc",
+   "Points": 765,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 494,
+   "Player": "Underworn",
+   "Points": 765,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 495,
+   "Player": "CallFin_",
+   "Points": 763,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 496,
+   "Player": "Kennocide",
+   "Points": 763,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 497,
+   "Player": "PEEDgang | snaois",
+   "Points": 763,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 498,
+   "Player": "Limb",
+   "Points": 762,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 499,
+   "Player": "Ty",
+   "Points": 761,
+   "Country": "Scotland",
+   "Characters": "Jigglypuff"
+ },
+ {
+   "Rank": 500,
+   "Player": "IDPG",
+   "Points": 760,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 501,
+   "Player": "Kid A",
+   "Points": 760,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 502,
+   "Player": "Chu",
+   "Points": 760,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 503,
+   "Player": "K-SoGrande",
+   "Points": 760,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 504,
+   "Player": "Jiminy",
+   "Points": 759,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 505,
+   "Player": "Valentine (Ireland)",
+   "Points": 759,
+   "Country": "Ireland",
+   "Characters": ""
+ },
+ {
+   "Rank": 506,
+   "Player": "Doyle",
+   "Points": 759,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 507,
+   "Player": "AChknWingWithLemonPepper",
+   "Points": 756,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 508,
+   "Player": "DDCupcakes",
+   "Points": 756,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 509,
+   "Player": "The",
+   "Points": 754,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 510,
+   "Player": "Buggy",
+   "Points": 752,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 511,
+   "Player": "Pinder",
+   "Points": 749,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 512,
+   "Player": "Waitrose | davi",
+   "Points": 747,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 513,
+   "Player": "koi | Fyoon",
+   "Points": 741,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 514,
+   "Player": "partly",
+   "Points": 740,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 515,
+   "Player": "Asra",
+   "Points": 739,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 516,
+   "Player": "Cal",
+   "Points": 736,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 517,
+   "Player": "Puck",
+   "Points": 736,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 518,
+   "Player": "ShayShay",
+   "Points": 735,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 519,
+   "Player": "James_102",
+   "Points": 734,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 520,
+   "Player": "MAJ",
+   "Points": 734,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 521,
+   "Player": "shraids",
+   "Points": 733,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 522,
+   "Player": "lowarn",
+   "Points": 731,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 523,
+   "Player": "TBL | Hannah",
+   "Points": 730,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 524,
+   "Player": "EXFG | Zwysî",
+   "Points": 728,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 525,
+   "Player": "Freya (Bristol)",
+   "Points": 727,
+   "Country": "England(South West)",
+   "Characters": "Marth"
+ },
+ {
+   "Rank": 526,
+   "Player": "Seaglasses",
+   "Points": 727,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 527,
+   "Player": "Mossy",
+   "Points": 726,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 528,
+   "Player": "SeffKordich",
+   "Points": 723,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 529,
+   "Player": "TCD | Average",
+   "Points": 720,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 530,
+   "Player": "Siyico",
+   "Points": 717,
+   "Country": "",
+   "Characters": "Fox - Game & Watch"
+ },
+ {
+   "Rank": 531,
+   "Player": "bapple",
+   "Points": 716,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 532,
+   "Player": "purpely",
+   "Points": 713,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 533,
+   "Player": "yungqtekk",
+   "Points": 713,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 534,
+   "Player": "Fillet steak",
+   "Points": 711,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 535,
+   "Player": "sams",
+   "Points": 710,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 536,
+   "Player": "guffycs",
+   "Points": 708,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 537,
+   "Player": "y | nobod12",
+   "Points": 707,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 538,
+   "Player": "antoto",
+   "Points": 707,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 539,
+   "Player": "pantocrime",
+   "Points": 706,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 540,
+   "Player": "SGI_Loxley",
+   "Points": 706,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 541,
+   "Player": "Fall",
+   "Points": 706,
+   "Country": "Wales",
+   "Characters": ""
+ },
+ {
+   "Rank": 542,
+   "Player": "DAVI",
+   "Points": 702,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 543,
+   "Player": "Koi | Piper",
+   "Points": 702,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 544,
+   "Player": "GabbyWills98",
+   "Points": 700,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 545,
+   "Player": "KnC | Aurcado",
+   "Points": 699,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 546,
+   "Player": "Team Eywa | DJ Obelix",
+   "Points": 697,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 547,
+   "Player": "LloydTheHuman",
+   "Points": 697,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 548,
+   "Player": "Major Canis",
+   "Points": 696,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 549,
+   "Player": "ZEPPO",
+   "Points": 695,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 550,
+   "Player": "MIN | Minimg",
+   "Points": 694,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 551,
+   "Player": "Netscape",
+   "Points": 691,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 552,
+   "Player": "Team Weeden | fae  jr.",
+   "Points": 691,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 553,
+   "Player": "Jang",
+   "Points": 690,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 554,
+   "Player": "Anchus",
+   "Points": 690,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 555,
+   "Player": "lello",
+   "Points": 688,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 556,
+   "Player": "nora !!",
+   "Points": 687,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 557,
+   "Player": "DrPorkSpear",
+   "Points": 686,
+   "Country": "England(London)",
+   "Characters": ""
+ },
+ {
+   "Rank": 558,
+   "Player": "Gou",
+   "Points": 684,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 559,
+   "Player": "Sophie (Scotland)",
+   "Points": 683,
+   "Country": "Scotland",
+   "Characters": ""
+ },
+ {
+   "Rank": 560,
+   "Player": "AprilBored",
+   "Points": 680,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 561,
+   "Player": "YO31 | NSAP",
+   "Points": 679,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 562,
+   "Player": "PEEDgang | sophiespraoi",
+   "Points": 677,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 563,
+   "Player": "LTHuman",
+   "Points": 677,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 564,
+   "Player": "oddheadred",
+   "Points": 675,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 565,
+   "Player": "bouncyshield",
+   "Points": 672,
+   "Country": "England",
+   "Characters": "Peach"
+ },
+ {
+   "Rank": 566,
+   "Player": "Lys",
+   "Points": 669,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 567,
+   "Player": "Cond0",
+   "Points": 663,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 568,
+   "Player": "Miko$",
+   "Points": 645,
+   "Country": "United Kingdom",
+   "Characters": "Fox"
+ },
+ {
+   "Rank": 569,
+   "Player": "Luigimitsu",
+   "Points": 639,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 570,
+   "Player": "Peadar",
+   "Points": 638,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 571,
+   "Player": "redux",
+   "Points": 630,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 572,
+   "Player": "NutHut",
+   "Points": 630,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 573,
+   "Player": "Mars",
+   "Points": 629,
+   "Country": "Scotland",
+   "Characters": "Falco"
+ },
+ {
+   "Rank": 574,
+   "Player": "mouse :3",
+   "Points": 626,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 575,
+   "Player": "the | MATHEW",
+   "Points": 626,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 576,
+   "Player": "Ca$hmuny",
+   "Points": 625,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 577,
+   "Player": "Swiss Army Boy Wife",
+   "Points": 614,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 578,
+   "Player": "NoahStar",
+   "Points": 614,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 579,
+   "Player": "chumpnation",
+   "Points": 613,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 580,
+   "Player": "MonkeyZebraProductions",
+   "Points": 601,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 581,
+   "Player": "BananaSundae",
+   "Points": 576,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 582,
+   "Player": "Lil Midge",
+   "Points": 564,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 583,
+   "Player": "ClickForVictory",
+   "Points": 545,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 584,
+   "Player": "Doodles",
+   "Points": 541,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 585,
+   "Player": "Fourstar",
+   "Points": 537,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 586,
+   "Player": "mini_samurai",
+   "Points": 533,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 587,
+   "Player": "2x24zrp_",
+   "Points": 530,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 588,
+   "Player": "SMIB | Adumb",
+   "Points": 426,
+   "Country": "",
+   "Characters": ""
+ },
+ {
+   "Rank": 589,
+   "Player": "lolahmed",
+   "Points": 371,
+   "Country": "",
+   "Characters": ""
  }
 ]
