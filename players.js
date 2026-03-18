@@ -1372,13 +1372,6 @@ players = [
    "Characters": "Falco"
  },
  {
-   "Rank": 197,
-   "Player": "R.I.D.P.P | JUNE",
-   "Points": 1268,
-   "Country": "",
-   "Characters": ""
- },
- {
    "Rank": 198,
    "Player": "Snugs",
    "Points": 1267,
