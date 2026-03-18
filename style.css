@@ -1,5 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
+:root {
+    --background-color: #24252f;
+    --accent-color: #C7C6CF;
+}
+
 body {
     font-family: "Jetbrains Mono", monospace;
+    color: var(--accent-color);
+    background-color: var(--background-color);
+}
+
+h1 {
+    font-weight: 200;
+    font-size:x-large;
+}
+
+h1:hover {
+    text-shadow: #C7C6CF 0 0 3px;
+}
+
+#maindiv {
+    margin: 1%;
+}
+
+#header{
+    border-color: var(--accent-color);
+    border: 2px solid;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#headersegment{
+    padding-left: 5%;
+    padding-right: 5%;
 }
