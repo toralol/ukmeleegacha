@@ -6,7 +6,7 @@ function returnChar() {
     for(let i = 0; i < 5; i++) {
         id = Math.floor(Math.random() * 590);
         console.log(id);
-        document.getElementById("playerName").append(players[id].Player + " ")
+        document.getElementById("playerName").append(players[id].Player + "\n")
     }
     // document.getElementById("playerName").textContent = players[id].Player
 }
