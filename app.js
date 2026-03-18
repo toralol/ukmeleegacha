@@ -11,3 +11,18 @@ function returnChar() {
     // document.getElementById("playerName").textContent = players[id].Player
 }
 
+function goCollection() {
+    var current = document.getElementsByClassName("active")
+    current[0].className = current[0].className.replace(" active", "");
+    document.getElementsByClassName("collection")[0].className += " active";
+}
+function goGacha() {
+    var current = document.getElementsByClassName("active")
+    current[0].className = current[0].className.replace(" active", "");
+    document.getElementsByClassName("gacha")[0].className += " active";
+}
+function goSocial() {
+    var current = document.getElementsByClassName("active")
+    current[0].className = current[0].className.replace(" active", "");
+    document.getElementsByClassName("social")[0].className += " active";
+}

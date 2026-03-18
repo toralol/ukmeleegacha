@@ -5,10 +5,31 @@
     --accent-color: #C7C6CF;
 }
 
-body {
+.btn {
+    cursor: pointer;
+}
+
+.active {
+    text-decoration: underline;
+    text-decoration-color: var(--accent-color);
+    text-underline-offset: 8px;
+}
+
+.section {
+    border-color: var(--accent-color);
+    border: 2px solid;
+}
+
+.main {
+    flex: 1 1 auto;
+    width: 100%;
+}
+
+html, body {
     font-family: "Jetbrains Mono", monospace;
     color: var(--accent-color);
     background-color: var(--background-color);
+    height: 98.6%;
 }
 
 h1 {
@@ -21,18 +42,36 @@ h1:hover {
 }
 
 #maindiv {
-    margin: 1%;
+    padding: 10px;
+    display: flex;
+    flex-flow: column ;
+    height: 100%;
 }
 
 #header{
-    border-color: var(--accent-color);
-    border: 2px solid;
+    display: grid;
+    grid-template-columns: 33% auto 33%;
+    justify-content: space-evenly;
+    gap: 0%;
     text-align: center;
-    display: flex;
-    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
 }
 
-#headersegment{
-    padding-left: 5%;
-    padding-right: 5%;
+t1 {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    background-color: var(--background-color);
+    border: 8px solid var(--background-color);
 }
+
+t2 {
+    position: absolute;
+    top: 143px;
+    left: 30px;
+    background-color: var(--background-color);
+    border: 8px solid var(--background-color);
+}
+

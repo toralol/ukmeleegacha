@@ -386,7 +386,7 @@ players = [
  },
  {
    "Rank": 56,
-   "Player": "stylo",
+   "Player": "noviko",
    "Points": 1670,
    "Country": "Scotland",
    "Characters": "Jigglypuff"
@@ -652,9 +652,9 @@ players = [
  },
  {
    "Rank": 94,
-   "Player": "DiabolicalSloth",
+   "Player": "Sloth",
    "Points": 1534,
-   "Country": "England(Midlands)",
+   "Country": "England(Yorkshire and the Humber)",
    "Characters": "Falco"
  },
  {

@@ -14,6 +14,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="/favicon.png">
+
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -27,10 +29,14 @@
         <h1 id="playerName" style="white-space: pre-wrap;"></h1> -->
 
         <div id="maindiv">
-            <div id="header">
-                <div id="headersegment"><h1>Collection</h1></div>
-                <div id="headersegment"><h1>Gacha</h1></div>
-                <div id="headersegment"><h1>Social</h1></div>
+            <div id="header" class="section">
+                    <t1>Header</t1>
+                    <h1 class="collection btn" id="headersegment" onclick="goCollection()">Collection</h1>
+                    <h1 class="gacha btn active" id="headersegment" onclick="goGacha()">Gacha</h1>
+                    <h1 class="social btn" id="headersegment" onclick="goSocial()">Social</h1>
+            </div>
+            <div id="gachamain" class="main section">
+                <t2>Gacha</t2>
             </div>
         </div>
     </body>
